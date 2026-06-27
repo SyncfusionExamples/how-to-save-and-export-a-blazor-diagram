@@ -1,6 +1,6 @@
 # How to Save and Export a Blazor Diagram
 
-A quick start Blazor project that shows how to save and export a [Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram). This project includes a code snippet to save and load the diagram as a string and file stream. It also includes a code snippet to export the diagram in png format.
+A quick start Blazor project that shows how to save and export a [Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram). This project includes a code snippet to save and load the diagram as a string and file stream. It also includes a code snippet to export the diagram in png format.
  
 Refer to the following documentation to learn about the Blazor Diagram component: 
 https://blazor.syncfusion.com/documentation/diagram/serialization
